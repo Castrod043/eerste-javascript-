@@ -1,3 +1,5 @@
+console.log("Hoi Winc mensen")
+
 //log mijn naam
 let name = 'David';
 console.log(name)
